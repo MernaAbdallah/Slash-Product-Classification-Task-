@@ -31,3 +31,12 @@ I implemented several CNN architectures and evaluated their performance on the t
 When dealing with a small dataset, it's essential to strike a balance between model complexity and generalization. Simple models often perform better and are less prone to overfitting. Regularization techniques and early stopping can further improve model performance.
 
 This repository contains the code for preprocessing, model development, training, evaluation, and optimization, providing insights into building a robust product classification system using deep learning techniques.
+
+
+### A short video demonstrating the code's functionality
+
+
+https://github.com/MernaAbdallah/Slash-Product-Classification-Task-/assets/91502893/967066f1-f3bb-490c-bff4-80961b4cb93f
+
+
+
